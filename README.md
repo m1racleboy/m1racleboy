@@ -20,7 +20,7 @@ HTML, CSS, SCSS/SASS, BEM, responsive/adaptive
 React
 
 ### State manager
-Redux, mobx
+Redux
 
 ### Bundlers
 gulp, webpack
